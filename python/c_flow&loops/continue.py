@@ -1,9 +1,9 @@
-# i = 1
-# for i in range (0,21):
-#     if i % 2 != 0: # # i is divide by 2 then remainder  is not equal to zero = even (telling to skip odd no.)
-#         continue
-#     print(i)
-# output : 0 2 4 6 8 10 12 14 16 18 20
+i = 1
+for i in range (0,21):
+    if i % 2 != 0: # # i is divide by 2 then remainder  is not equal to zero = even (telling to skip odd no.)
+        continue
+    print(i)
+    #output : 0 2 4 6 8 10 12 14 16 18 20
 
 # i = 1 
 # for i in range (0,21):
